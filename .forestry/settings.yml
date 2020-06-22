@@ -14,7 +14,7 @@ sections:
 - type: directory
   path: ''
   label: skills
-  create: all
+  create: none
   match: "*.md"
   exclude: "*README.md"
   new_doc_ext: md
