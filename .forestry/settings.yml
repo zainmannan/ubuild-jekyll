@@ -6,14 +6,14 @@ webhook_url:
 sections:
 - type: document
   path: FORESTRY-README.md
-  label: Welcome - First Steps
+  label: zain mannan
   read_only: true
 - type: jekyll-posts
-  label: Posts
+  label: work experience
   create: all
 - type: directory
   path: ''
-  label: Pages
+  label: skills
   create: all
   match: "*.md"
   exclude: "*README.md"
